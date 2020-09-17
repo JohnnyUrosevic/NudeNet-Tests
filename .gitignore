@@ -13,3 +13,6 @@ ipython_config.py
 conf.ini
 .vscode
 images
+
+env/
+run.py

@@ -3,3 +3,4 @@ praw
 configparser
 argparse
 NudeNet
+tensorflow==1.14
